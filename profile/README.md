@@ -1,0 +1,3 @@
+# Dimer Software
+
+Welcome, stranger.
